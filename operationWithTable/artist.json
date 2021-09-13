@@ -1,0 +1,35 @@
+[{
+        "artist": "Tom Hanks",
+        "movies": [{
+                "movie": "Cast Away",
+                "role": "Chuck Nolan",
+                "year": "2000",
+                "genre": "Drama"
+            },
+            {
+                "movie": "Toy Story",
+                "role": "Woody",
+                "year": "1995",
+                "genre": "Children's"
+            }
+        ]
+    },
+    {
+        "artist": "Tim Allen",
+        "movies": [{
+            "movie": "Toy Story",
+            "role": "Woody",
+            "year": "1995",
+            "genre": "Children's"
+        }]
+    },
+    {
+        "artist": "Natalie Portman",
+        "movies": [{
+            "movie": "Black Swan",
+            "role": "Nina Sayers",
+            "year": "2010",
+            "genre": "Drama"
+        }]
+    }
+]
